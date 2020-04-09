@@ -1,0 +1,11 @@
+.header {
+grid-area: h;
+background: #648fc7;
+}
+
+.loginBlock {
+    float: right;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+}

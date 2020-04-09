@@ -1,0 +1,20 @@
+.messageBlock {
+    margin: 10px; 
+    padding: 10px;
+}
+.message {
+    background-color: rgb(226, 225, 161);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 25%;
+    border: 1px solid white;
+}
+
+.messageBlock:nth-child(even) .message {
+    background: rgb(165, 216, 178);
+}
+
+.messageBlock:nth-child(even) {
+    text-align: end;
+}
+

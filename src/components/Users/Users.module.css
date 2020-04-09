@@ -1,0 +1,16 @@
+.avatarBlock {
+    border: 1px solid grey;
+    clear: both;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+}
+.avatar {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 10px;
+}
+.statusBlock {
+    color: red;
+}

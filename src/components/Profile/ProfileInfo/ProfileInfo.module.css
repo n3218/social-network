@@ -1,0 +1,20 @@
+.content {
+  grid-area: c;
+  background-color: beige;
+}
+
+.content img {
+  width: 100%;
+}
+
+.avatar {
+  width: 100px;
+}
+
+.mainPhoto {
+  width: 300px;
+}
+
+.contact {
+  padding-left: 20px;
+}

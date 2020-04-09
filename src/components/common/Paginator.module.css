@@ -1,0 +1,10 @@
+.selectedPage {
+  font-weight: bold;
+  font-size: 110%;
+  color: brown;
+  border: 1px solid brown;
+}
+
+span {
+  cursor: pointer;
+}
